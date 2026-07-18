@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/tylerwettach/Desktop/C++/game_engine/build/cmake_install.cmake",
+		"/Users/tylerwettach/Desktop/C++/game_engine/build/glfw_build/cmake_install.cmake",
+		"/Users/tylerwettach/Desktop/C++/game_engine/build/glfw_build/src/cmake_install.cmake",
+		"/Users/tylerwettach/Desktop/C++/game_engine/build/glfw_build/docs/cmake_install.cmake",
+		"/Users/tylerwettach/Desktop/C++/game_engine/build/glew_build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
