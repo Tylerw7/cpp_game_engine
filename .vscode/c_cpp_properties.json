@@ -4,7 +4,8 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/thirdparty/glfw-3.4/include"
+                "${workspaceFolder}/thirdparty/glfw-3.4/include",
+                "${workspaceFolder}/thirdparty/glew/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
